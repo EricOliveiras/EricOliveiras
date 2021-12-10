@@ -1,4 +1,4 @@
-## Olá, me chamo SeuNomeAqui ! 
+## Olá, me chamo Eric ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 <br>
