@@ -5,7 +5,7 @@
 
 - Formado em Analise e desenvolvimento de sistemas
 - Meu foco é em desenvolvimento backend
-- Amo games, séries e música
+- Em busca do meu primeiro job na área
 
 <br>
 
