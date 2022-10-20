@@ -32,7 +32,7 @@
   
 <br>
 
-### Hacktoberfest
+### Badges
 
 [![@eriicdiiego's Holopin board](https://holopin.me/eriicdiiego)](https://holopin.io/@eriicdiiego)
   
