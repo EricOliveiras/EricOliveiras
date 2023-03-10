@@ -4,7 +4,7 @@
 <br>
 
 - Formado em Analise e desenvolvimento de sistemas
-- Meu foco é em desenvolvimento backend
+- Desenvolvedor Web
 
 <br>
 
