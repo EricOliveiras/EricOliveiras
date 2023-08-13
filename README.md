@@ -1,10 +1,10 @@
-## Olá, me chamo Eric ! 
-### Bem vindo ao meu perfil GitHub 👋
+# Olá, sou Eric Oliveira! 👋
 
-<br>
+Bem-vindo ao meu perfil GitHub, onde compartilho minha jornada como Desenvolvedor Back-End apaixonado por tecnologia e inovação.
 
-- Formado em Analise e desenvolvimento de sistemas
-- Desenvolvedor Back-End
+## Sobre Mim
+
+Sou formado em Análise e Desenvolvimento de Sistemas e estou constantemente buscando aprimorar minhas habilidades e explorar novas tecnologias para criar soluções robustas e eficientes.
 
 <br>
 
@@ -17,23 +17,22 @@
  <br>
   
 ### Ferramentas e tecnologias
+<div display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50" width="50"/>
+</div>
+<div display="flex">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50" width="50"/
+</div>
+<div display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50"/>
-          
-          
-     
-<br>  
-  
-### Estou aprendendo
-            
+</div>
+           
 <br>
 
 ### Badges
