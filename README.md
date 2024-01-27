@@ -44,7 +44,7 @@ Join me on this exciting journey, and connect with me to discuss software develo
 
 <hr>
   
-### Contatos:
+### Contacts:
 
 <div>
   <a href = "mailto:eriicdiiego@hotmail.com">
