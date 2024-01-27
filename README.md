@@ -1,48 +1,57 @@
-# Olá, sou Eric Oliveira! 👋
+# Hello, I'm Eric! 👋
 
-Bem-vindo ao meu perfil GitHub, onde compartilho minha jornada como Desenvolvedor Back-End apaixonado por tecnologia e inovação.
+Welcome to my GitHub profile, where I share my journey as a Back-End Developer and a Software Engineering student, passionate about technology and innovation.
 
-## Sobre Mim
+## About Me
 
-Sou formado em Análise e Desenvolvimento de Sistemas e estou constantemente buscando aprimorar minhas habilidades e explorar novas tecnologias para criar soluções robustas e eficientes.
+I have a degree in Systems Analysis and Development and am currently immersed in the world of Software Engineering, constantly seeking to enhance my skills. I am committed to exploring new technologies to create robust and efficient solutions, contributing to the development of innovative projects.
 
-<br>
+While browsing through my repositories, you will find a variety of projects that reflect my dedication to high-quality software development. Feel free to explore, collaborate, and get in touch! Together, we can drive innovation and create solutions that positively impact the world of technology.
 
+Join me on this exciting journey, and connect with me to discuss software development, software engineering, and anything else related to technology! 🚀
+
+<hr>
+
+### Git Stats
 <div>
- <a href="https://github.com/ericoliveiras">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricOliveiras&layout=compact&langs_count=7&theme=dracula"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricOliveiras&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- <br>
+<hr>
   
-### Ferramentas e tecnologias
+### Tools and Technologies
+
 <div display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="50" width="50"/>
-</div>
-<div display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50" width="50"/
-</div>
-<div display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="50"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" width="110" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" width="110" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" width="110" /> 
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" height="30" width="110" /> 
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30" width="110" />   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30" width="110" />   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30" width="110" />   
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" width="110" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="30" width="110" /> 
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" height="30" width="110" /> 
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" height="30" width="110" /> 
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" height="30" width="110" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="30" width="110" /> 
 </div>
            
-<br>
+<hr>
 
 ### Badges
 
 [![@eriicdiiego's Holopin board](https://holopin.me/eriicdiiego)](https://holopin.io/@eriicdiiego)
+
+<hr>
   
 ### Contatos:
 
 <div>
-<a href = "mailto:eriicdiiego@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/eric-oliveira-588379204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:eriicdiiego@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/eric-oliveira-588379204/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
 </div>
   
