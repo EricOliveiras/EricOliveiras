@@ -1,14 +1,13 @@
-# Hello, I'm Eric! 👋
+# Olá, eu sou o Eric! 👋
 
-Welcome to my GitHub profile, where I share my journey as a Back-End Developer and a Software Engineering student, passionate about technology and innovation.
+Bem-vindo ao meu perfil no GitHub, onde compartilho minha jornada como Desenvolvedor Back-End e estudante de Engenharia de Software, apaixonado por tecnologia e inovação.
 
-## About Me
+## Sobre Mim
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou imerso no mundo da Engenharia de Software, buscando constantemente aprimorar minhas habilidades. Estou comprometido em explorar novas tecnologias para criar soluções robustas e eficientes, contribuindo para o desenvolvimento de projetos inovadores.
 
-I have a degree in Systems Analysis and Development and am currently immersed in the world of Software Engineering, constantly seeking to enhance my skills. I am committed to exploring new technologies to create robust and efficient solutions, contributing to the development of innovative projects.
+Ao navegar pelos meus repositórios, você encontrará uma variedade de projetos que refletem minha dedicação ao desenvolvimento de software de alta qualidade. Sinta-se à vontade para explorar, colaborar e entrar em contato! Juntos, podemos impulsionar a inovação e criar soluções que impactam positivamente o mundo da tecnologia.
 
-While browsing through my repositories, you will find a variety of projects that reflect my dedication to high-quality software development. Feel free to explore, collaborate, and get in touch! Together, we can drive innovation and create solutions that positively impact the world of technology.
-
-Join me on this exciting journey, and connect with me to discuss software development, software engineering, and anything else related to technology! 🚀
+Participe desta jornada empolgante e conecte-se comigo para discutir desenvolvimento de software, engenharia de software e tudo relacionado à tecnologia! 🚀
 
 <hr>
 
