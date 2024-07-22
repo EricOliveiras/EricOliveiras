@@ -1,3 +1,4 @@
+```json
 {
   "nome": "Eric Nascimento",
   "profissao": "Engenheiro de Software | Desenvolvedor Backend",
