@@ -1,6 +1,6 @@
 ```json
 {
-  "nome": "Eric Nascimento",
+  "nome": "Eric Oliveira",
   "profissao": "Engenheiro de Software | Desenvolvedor Backend",
   "linguagens": {
     "conhecimento/experiencia": ["Java", "Go", "Javascript"],
@@ -22,7 +22,7 @@
   "contato": {
     "email": "eriicdiiego@hotmail.com",
     "linkedin": "linkedin.com/in/heyeriic",
-    "github": "github.com/heyeriic"
+    "github": "github.com/ericoliveiras"
   }
 }
 ```
