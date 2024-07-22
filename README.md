@@ -1,13 +1,29 @@
-# Olá, eu sou o Eric! 👋
-
-Bem-vindo ao meu perfil no GitHub, onde compartilho minha jornada como Desenvolvedor Back-End e estudante de Engenharia de Software, apaixonado por tecnologia e inovação.
-
-## Sobre Mim
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou imerso no mundo da Engenharia de Software, buscando constantemente aprimorar minhas habilidades. Estou comprometido em explorar novas tecnologias para criar soluções robustas e eficientes, contribuindo para o desenvolvimento de projetos inovadores.
-
-Ao navegar pelos meus repositórios, você encontrará uma variedade de projetos que refletem minha dedicação ao desenvolvimento de software de alta qualidade. Sinta-se à vontade para explorar, colaborar e entrar em contato! Juntos, podemos impulsionar a inovação e criar soluções que impactam positivamente o mundo da tecnologia.
-
-Participe desta jornada empolgante e conecte-se comigo para discutir desenvolvimento de software, engenharia de software e tudo relacionado à tecnologia! 🚀
+{
+  "nome": "Eric Nascimento",
+  "profissao": "Engenheiro de Software | Desenvolvedor Backend",
+  "linguagens": {
+    "conhecimento/experiencia": ["Java", "Go", "Javascript"],
+    "aprendendo": ["C#"]
+  },
+  "frameworks": ["Springboot", "Node.js", "Dotnet"],
+  "formacao": [
+    {
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Fael",
+      "ano_conclusao": 2022
+    },
+    {
+      "curso": "Engenharia de Software",
+      "instituicao": "UNICID | Universidade Cidade de São Paulo",
+      "ano_conclusao": 2026
+    }
+  ],
+  "contato": {
+    "email": "eriicdiiego@hotmail.com",
+    "linkedin": "linkedin.com/in/heyeriic",
+    "github": "github.com/heyeriic"
+  }
+}
 
 <hr>
 
