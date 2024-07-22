@@ -25,7 +25,7 @@
     "github": "github.com/heyeriic"
   }
 }
-
+```
 <hr>
 
 ### Git Stats
