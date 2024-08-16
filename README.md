@@ -16,7 +16,7 @@
     {
       "curso": "Engenharia de Software",
       "instituicao": "UNICID | Universidade Cidade de São Paulo",
-      "ano_conclusao": 2026
+      "ano_conclusao": Em andamento
     }
   ],
   "contato": {
